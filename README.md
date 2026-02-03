@@ -168,7 +168,8 @@ plt.title("With Sunglasses")
 plt.axis('off')
 
 ```
-<img width="411" height="458" alt="image" src="https://github.com/user-attachments/assets/4251921f-1339-4196-821c-835466da9469" /> <img width="338" height="446" alt="Screenshot 2026-02-03 093758" src="https://github.com/user-attachments/assets/82aff26d-2a3d-4086-be3f-107453639e34" />
+<img width="834" height="479" alt="image" src="https://github.com/user-attachments/assets/844c8b20-65dc-434d-ac70-03697276e59c" />
+
 
 
 
